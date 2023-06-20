@@ -14,6 +14,9 @@ cd PS4payload
 python server.py
 <br>
 <br>
+  Note before you run backdoor set the ip and port also in the backdoor buys
+  <br>
+  <br>
 </div>
 
 # HOW TO CONVERT PYTHON BACKDOOR FILE IN TO EXE
