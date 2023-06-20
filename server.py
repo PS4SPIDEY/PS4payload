@@ -19,7 +19,7 @@ print(colorama.Fore.GREEN+"""
 |		 ----------|		|
 
 """)
-lh = input(colorama.Fore.CYAN+"Enter your iP address")
+lh = input(colorama.Fore.CYAN+"Enter your iP address:")
 try:
     lp = int(input(colorama.Fore.LIGHTGREEN_EX+"Enter you ip:"))
 except ValueError:
