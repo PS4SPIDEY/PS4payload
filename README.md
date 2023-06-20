@@ -6,6 +6,7 @@ This is a wonderful powerful backdoor Made by PS4 SPIDEY THAT IS ME I AM A ETHIC
 # HOW TO RUN THIS FILE IN ATTACKER PC
 
 git clone https://github.com/PS4SPIDEY/PS4payload.git
+<br>
 cd PS4payload
 python server.py
 
